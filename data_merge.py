@@ -5,6 +5,12 @@ import numpy as np
 def combine_data(profile_clean, portfolio_clean, offer_data, transaction_data):
    
     """
+    INPUT: profile_clean, portfolio_clean, offer_data, transaction_data df
+    
+    OUTPUT: processed and merge data in data df
+    
+    
+    STEPS
     For each customer, apply the following algorithm:
 
     1. Select a customer's profile
@@ -26,7 +32,7 @@ def combine_data(profile_clean, portfolio_clean, offer_data, transaction_data):
     data = []
     customers_id = offer_data['customerid'].unique()
     
-    
+   
     for ind in range(len(customers_id)):
         
         cust_id = customers_id[ind]
