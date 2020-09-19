@@ -24,7 +24,7 @@ The problem that I choose to solve was to build a model that predicts whether a 
 a. Exploratory data analysis, data cleaning and data preprocess with portfolio, profile and transaction datasets<br>
 b. Combine these clean datasets containing relevant features which can be used to train our model<br>
 c. Split data to train and test datasets (and scaling variables), selecting the appropriate performance matrix<br>
-d. Calculate features importance given by the best estimator.<br>  
+d. Calculate features importance given by the best estimator<br>  
 e. Compute performance of the model using test data, and plot a confusion matrix<br>
  
 
