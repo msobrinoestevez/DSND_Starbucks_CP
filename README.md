@@ -21,11 +21,11 @@ The task is to combine transaction, demographic and offer data to determine whic
 
 The problem that I choose to solve was to build a model that predicts whether a customer will respond to an offer. These are the steps taken to achieve this:
 
-a. Exploratory data analysis, data cleaning and data preprocess with portfolio, profile and transaction datasets
-b. Combine these clean datasets containing relevant features which can be used to train our model
-c. Split data to train and test datasets (and scaling variables), selecting the appropriate performance matrix
-d. Calculate features importance given by the best estimator.  
-e. Compute performance of the model using test data, and plot a confusion matrix
+a. Exploratory data analysis, data cleaning and data preprocess with portfolio, profile and transaction datasets<br>
+b. Combine these clean datasets containing relevant features which can be used to train our model<br>
+c. Split data to train and test datasets (and scaling variables), selecting the appropriate performance matrix<br>
+d. Calculate features importance given by the best estimator.<br>  
+e. Compute performance of the model using test data, and plot a confusion matrix<br>
  
 
 ### 3. Installation<a name="installation"></a>
@@ -75,8 +75,7 @@ Here is the schema and explanation of each variable in the files:
 ### 5. Instructions<a name="instructions"></a>
 
 1. The analysis is contained within the jupyter notebook.
-2.
-3. All 3 json files should be located in data folder.
+2. All 3 json files should be located in data folder.
 
 
 ### 6. Acknowledgements<a name="licensing">
