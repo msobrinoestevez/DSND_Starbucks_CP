@@ -83,4 +83,4 @@ Here is the schema and explanation of each variable in the files:
 This project was completed as part of the [Udacity Data Science Nanodegree]. The dataset used in this project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. [Starbucks® Rewards program: Starbucks Coffee Company](https://www.starbucks.com/rewards/).
 
 ### 7. Results<a name="results"></a>
-The main observations of the code are published on medium [here]()
+The main observations of the code are published on medium [here](https://medium.com/@m.sobrino.estevez/starbucks-customer-behavior-challenge-122a567f5b61)
